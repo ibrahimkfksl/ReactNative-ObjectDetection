@@ -16,10 +16,10 @@
 > 4. npm i react-native-base64
 
 **Daha sonra ise proje dizinimize gelip bu paketler ile projemizi ilişkilendiriyoruz**
-> npm i --save react-native-image-picker
-> npm install --save firebase
-> npm i --save nanoid
-> npm i --save react-native-base64
+> 1. npm i --save react-native-image-picker
+> 2. npm install --save firebase
+> 3. npm i --save nanoid
+> 4. npm i --save react-native-base64
 
 **Kurulumlar tamamlandıktan sonra proje herhangi bir mobil emilatör ve node server ile react-native çalıştırma yöntemleri ile çalıştırılabilir**
 
@@ -29,14 +29,14 @@
 
 ## Proje'de Kullanılan Teknolojiler
 
-> React-Native
-> Visual Studio Code
-> Android Studio
-> Google Cloud
-> Firebase
-> Genymotion
+> 1. React-Native
+> 2. Visual Studio Code
+> 3. Android Studio
+> 4. Google Cloud
+> 5. Firebase
+> 6. Genymotion
 
 ## Projeyi Geliştirenler
 
-> Abdullah Yaşar KISA 180201015	
-> İbrahim KAFKASLI 180201078
+> 1. Abdullah Yaşar KISA 180201015	
+> 2. İbrahim KAFKASLI 180201078
