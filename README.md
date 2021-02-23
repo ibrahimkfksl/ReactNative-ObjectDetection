@@ -10,16 +10,16 @@
 ## Gerekli Kurulumlar
 
 **İlk paketleri kuruyoruz.**
---npm i  react-native-image-picker
---npm install firebase
---npm i  nanoid
---npm i react-native-base64
+> npm i  react-native-image-picker
+> npm install firebase
+> npm i  nanoid
+> npm i react-native-base64
 
 **Daha sonra ise proje dizinimize gelip bu paketler ile projemizi ilişkilendiriyoruz**
---npm i --save react-native-image-picker
---npm install --save firebase
---npm i --save nanoid
---npm i --save react-native-base64
+> npm i --save react-native-image-picker
+> npm install --save firebase
+> npm i --save nanoid
+> npm i --save react-native-base64
 
 **Kurulumlar tamamlandıktan sonra proje herhangi bir mobil emilatör ve node server ile react-native çalıştırma yöntemleri ile çalıştırılabilir**
 
@@ -29,14 +29,14 @@
 
 ## Proje'de Kullanılan Teknolojiler
 
--- React-Native
--- Visual Studio Code
--- Android Studio
--- Google Cloud
--- Firebase
--- Genymotion
+> React-Native
+> Visual Studio Code
+> Android Studio
+> Google Cloud
+> Firebase
+> Genymotion
 
 ## Projeyi Geliştirenler
 
--- Abdullah Yaşar KISA 180201015	
--- İbrahim KAFKASLI 180201078
+> Abdullah Yaşar KISA 180201015	
+> İbrahim KAFKASLI 180201078
