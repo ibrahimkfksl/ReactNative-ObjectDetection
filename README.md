@@ -10,10 +10,10 @@
 ## Gerekli Kurulumlar
 
 **İlk paketleri kuruyoruz.**
-> npm i  react-native-image-picker
-> npm install firebase
-> npm i  nanoid
-> npm i react-native-base64
+> 1. npm i  react-native-image-picker
+> 2. npm install firebase
+> 3. npm i  nanoid
+> 4. npm i react-native-base64
 
 **Daha sonra ise proje dizinimize gelip bu paketler ile projemizi ilişkilendiriyoruz**
 > npm i --save react-native-image-picker
